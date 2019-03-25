@@ -2,8 +2,8 @@
 
 * [前言](README.md)
 * [第一部 jvm](chapter1/README.md)
-  * [java中的反射](chapter1/java中的反射.md)
-  * [使用类加载器获取当前类目录下的文件](chapter1/使用类加载器获取当前类目录下的文件.md)
+  * [java中的反射](chapter1/1. java中的反射.md)
+  * [使用类加载器获取当前类目录下的文件](chapter1/2.使用类加载器获取当前类目录下的文件.md)
 * [第二部 mysql](chapter2/README.md)
 * [第三部 多线程](chapter3/README.md)
 * [第四部 spring](chapter4/README.md)
