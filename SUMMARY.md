@@ -9,6 +9,7 @@
 * [第四部 spring](chapter4/README.md)
 * [第五部 设计模式](chapter5/README.md)
 * [第六部 算法](chapter6/README.md)
+    * [算发与数据结构思维导图](chapter6/算发与数据结构思维导图.md)
 * [第七部 linux](chapter7/README.md)
 * [第八部 博客专栏](chapter8/README.md)
 * [第九部 资金管理](chapter9/README.md)
